@@ -1,0 +1,18 @@
+body {
+    font-family: "News Gothic Std" , Arial , sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: bold
+}
+
+h2 {
+    font-size: 1em;
+    font-style: italic;
+    font-weight: bold
+}
